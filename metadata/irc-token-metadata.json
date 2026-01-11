@@ -2,7 +2,7 @@
   "name": "iRC Token",
   "symbol": "iRC",
   "description": "iRC is the official currency of iRunCrypto.com, powering a multi-game ecosystem including FiveM servers and turn-based games. Earn, trade, and spend iRC across all iRunCrypto platforms.",
-  "image": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-logo.png",
+  "image": "https://raw.githubusercontent.com/GrantCorporation/iRC-Official-Token/main/assets/irc-token-logo.png",
   "external_url": "https://iruncrypto.com/",
   "attributes": [
     {
@@ -32,11 +32,11 @@
     ],
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-logo.png",
+        "uri": "https://raw.githubusercontent.com/GrantCorporation/iRC-Official-Token/main/assets/irc-token-logo.png",
         "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-banner.png",
+        "uri": "https://raw.githubusercontent.com/GrantCorporation/iRC-Official-Token/main/assets/irc-token-banner.png",
         "type": "image/png"
       }
     ]
