@@ -1,0 +1,50 @@
+{
+  "name": "iRC Token",
+  "symbol": "iRC",
+  "description": "iRC is the official currency of iRunCrypto.com, powering a multi-game ecosystem including FiveM servers and turn-based games. Earn, trade, and spend iRC across all iRunCrypto platforms.",
+  "image": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-logo.png",
+  "external_url": "https://iruncrypto.com/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gaming Currency"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "iRunCrypto"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "5,000,000,000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "6"
+    }
+  ],
+  "properties": {
+    "category": "currency",
+    "creators": [
+      {
+        "address": "jdhVGpxkG5TvL8PG2T6gEw4mCzKhizhxcnayLg3eTzU",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-logo.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/iRunCrypto/irc-token/main/assets/irc-token-banner.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://iruncrypto.com/",
+    "twitter": "https://x.com/iruncrypto",
+    "discord": "https://discord.gg/kSHgxSuF",
+    "telegram": "https://t.me/iruncryptonow"
+  }
+}
